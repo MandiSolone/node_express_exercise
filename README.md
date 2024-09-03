@@ -23,7 +23,7 @@ This project is bootstrapped with files to get started, files for configuration 
 ```txt
 config/
     index.js
-mockdb/
+mockdb/dd
 routes/
     index.js
 .babelrc
